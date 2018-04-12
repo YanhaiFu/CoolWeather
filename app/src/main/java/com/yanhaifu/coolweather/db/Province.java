@@ -1,5 +1,7 @@
 package com.yanhaifu.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by YanhaiFu on 2017/1/16.
  */
